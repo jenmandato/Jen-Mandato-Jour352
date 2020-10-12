@@ -73,7 +73,7 @@ BODY {
 }
 
 /*contact info */
-#menu{
+.menu {
   font-size:1em;
   margin: 0px;
   padding: 0px;
@@ -82,7 +82,7 @@ BODY {
 }
 
 /*contact links */
-#menu li{
+.menu li{
   display: inline;
 }
 
