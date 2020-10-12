@@ -9,11 +9,13 @@ BODY {
 }
 
 /*banner name at top */
-h1{
+#Name{
   font-size:3em;
   text-transform:uppercase;
   text-align:center;
   color:#33485e;
+  border-bottom: 1px solid #33485e;
+  margin: 0 auto;
 }
 
 /*title */
