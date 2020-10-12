@@ -8,6 +8,14 @@ BODY {
   font-weight:400;
 }
 
+/*entire html body */
+#container{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
 /*banner name at top */
 #Name{
   font-size:3em;
@@ -19,10 +27,16 @@ BODY {
 }
 
 /*title */
-strong{
+#title{
   color:33485e;
   text-transform:uppercase;
   font-size:1.5em;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 /*section titles */
@@ -59,6 +73,43 @@ strong{
 }
 
 /*contact info */
-ul{
+#menu{
   font-size:1em;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  display: inline;
+}
+
+#menu li{
+  display: inline;
+}
+
+/*paragraphs */
+#description{
+  margin: 10px 0px;
+}
+
+/*degrees */
+#degrees{
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+/*skills */
+#do{
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+/*mission statement */
+#top{
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+  margin-bottom: 30px;
 }
