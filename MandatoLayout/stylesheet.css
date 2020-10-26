@@ -2,3 +2,9 @@
   margin: 0 auto;
   width: 900px;
 }
+
+#headline {
+  font-size: 3em;
+  text-align: center;
+  color: #5D518E;
+}
