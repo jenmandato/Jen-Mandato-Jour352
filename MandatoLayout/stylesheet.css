@@ -3,6 +3,13 @@
   width: 900px;
 }
 
+#masthead {
+  font-size: 36px;
+  text-align: center;
+  color: #5D518E;
+  border: 3px solid black;
+}
+
 /*This is all headline style */
 #headline {
   font-size: 1.5em;
