@@ -20,3 +20,28 @@ BODY {
   font-size:1em;
   font-weight:bold;
 }
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#button ul{
+  list-style:none;
+}
+#button li{
+  display: inline;
+}
+
+.btn-info {
+  background: #71B0D9;
+  color: #000;
+}
